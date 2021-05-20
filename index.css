@@ -1,0 +1,244 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+
+}
+
+body
+{
+    background: #292949;
+    width: 100%;
+    height: 100%;
+     
+}
+
+#canvasf1
+{
+border: 2px solid white;
+position: absolute;
+top: 10px;
+left: 100px; 
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+}
+#canvasf2
+{
+border: 2px solid white;
+position: absolute;
+top: 10px;
+left: 300px; 
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+}
+#canvasf3
+{
+border: 2px solid white;
+position: absolute;
+top: 10px;
+left: 500px; 
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+}
+ #canvasf4
+{
+border: 2px solid white;
+position: absolute;
+top: 210px;
+left: 100px; 
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+}
+#canvasf5
+{
+border: 2px solid white;
+position: absolute;
+top: 210px;
+left: 300px; 
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+}
+#canvasf6
+{
+border: 2px solid white;
+position: absolute;
+top: 210px;
+left: 500px; 
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+}
+#canvasf7
+{
+border: 2px solid white;
+position: absolute;
+top: 410px;
+left: 100px; 
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+}
+#canvasf8
+{
+border: 2px solid white;
+position: absolute;
+top: 410px;
+left: 300px; 
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+}
+
+#canvasf9
+{
+border: 2px solid white;
+position: absolute;
+top: 410px;
+left: 500px;
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+} 
+
+.numf
+{
+    font-size: 132px;
+    position: relative;
+    top:50px;
+    left: 50px;
+    
+}
+#num1
+{
+    font-size: 132px;
+   
+position: absolute;
+top: 10px;
+left: 100px; 
+}
+
+#num2
+{
+    font-size: 132px;
+   
+    position: absolute;
+    top: 10px;
+    left: 300px; 
+}
+
+#num3
+{
+    font-size: 132px;
+   
+    position: absolute;
+    top: 10px;
+    left: 500px; 
+}
+
+#num4
+{
+    font-size: 132px;
+   
+    position: absolute;
+    top: 210px;
+    left: 100px;  
+}
+
+#num5
+{
+    font-size: 132px;
+   
+    position: absolute;
+    top: 210px;
+    left: 300px; 
+}
+
+#num6
+{
+    font-size: 132px;
+   
+    position: absolute;
+    top: 210px;
+    left: 500px; 
+}
+
+#num7
+{
+    font-size: 132px;
+   
+    position: absolute;
+    top: 410px;
+    left: 100px; 
+}
+
+#num8
+{
+    font-size: 132px;
+   
+    position: absolute;
+    top: 410px;
+    left: 300px; 
+}
+
+#num9
+{
+    font-size: 132px;
+   
+    position: absolute;
+    top: 410px;
+    left: 500px; 
+}
+#nameflesh
+{
+    display: flex;
+    position: absolute;
+    top: 70%;
+    right: 5%;
+    font-size: 15vh;
+    
+    text-shadow: 2px 4px rgba(235, 219, 219, 0.3);
+    color: white;
+    
+    
+}
+
+#btn1
+{
+    position: absolute;
+    top: 5px;
+    left: 85%;
+    color: black;
+    width: 200px;
+    height: 50px;
+    box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.5);
+    font-size: 36px;
+}
+#lforfname
+{
+    color: white;
+    font-size: 36px;
+    position: absolute;
+    top: 15%;
+    right: 15%;
+}
+#fname
+{
+    text-align: center;
+    width: 200px;
+    color: black;
+    font-size: 36px;
+    position: absolute;
+    top: 22%;
+    right: 15%;
+    overflow: hidden;
+}
+
+#sforfname
+{
+    color: white;
+    font-size: 36px;
+    position: absolute;
+    top: 35%;
+    right: 15%;
+}
+#sname
+{
+    text-align: center;
+    width: 200px;
+    color: black;
+    font-size: 36px;
+    position: absolute;
+    top: 42%;
+    right: 15%;
+    overflow: hidden;
+}
